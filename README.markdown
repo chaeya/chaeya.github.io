@@ -4,7 +4,7 @@
 About
 ---
 
-개인웹사이트응 소스코드
+chaeya.guthub.io
 
 적용방법
 ---
